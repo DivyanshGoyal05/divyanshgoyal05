@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Goyal</h1>
-<h3 align="center">A passionate Web Developer & Data Science Student from India</h3>
+<h3 align="center">A passionate Data Science & Web Developer Student from India</h3>
 
 - 🌱 I’m currently learning **React.js**
 
