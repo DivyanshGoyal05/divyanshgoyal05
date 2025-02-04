@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divyansh Goyal</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
 
 
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **divyanshgoyal05@gmail.com**
 
