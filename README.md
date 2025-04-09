@@ -3,7 +3,7 @@
 
 
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+-  I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **divyanshgoyal05@gmail.com**
 
