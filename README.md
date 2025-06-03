@@ -41,4 +41,10 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="40" height="40"/>
+  </a>
 </p>
