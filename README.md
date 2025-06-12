@@ -47,4 +47,13 @@
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="40" height="40"/>
   </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="intellij" width="40" height="40"/>
+  </a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183869718-94b2b0ce-023b-43f3-a47b-3a49c04db460.png" alt="rest-api" width="40" height="40"/>
+  </a>
 </p>
